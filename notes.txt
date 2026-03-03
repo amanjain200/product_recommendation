@@ -1,0 +1,9 @@
+
+
+
+In windows
+1. mkdir - to create folder
+2. ni - to create file
+
+
+
