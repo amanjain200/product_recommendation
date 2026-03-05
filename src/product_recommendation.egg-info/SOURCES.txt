@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/product_recommendation/__init__.py
+src/product_recommendation/config.py
+src/product_recommendation/data.py
+src/product_recommendation/utils.py
+src/product_recommendation.egg-info/PKG-INFO
+src/product_recommendation.egg-info/SOURCES.txt
+src/product_recommendation.egg-info/dependency_links.txt
+src/product_recommendation.egg-info/top_level.txt
